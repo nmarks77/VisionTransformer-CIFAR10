@@ -30,7 +30,7 @@ The main code for training the model is in the file `train.py`. The model is tra
 You can run the code using the command:
 
 ```bash
-python train.py
+python transformer3.py
 
 
 
